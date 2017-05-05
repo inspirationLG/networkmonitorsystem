@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/9/27 10:41:15。
+     1>项目“C:\Users\Administrator\Desktop\项目\Monitor_Computer\Monitor_Computer\Monitor_Computer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Debug\Monitor_Computer.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\Monitor_Computer.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt DlgCpu.cpp DlgValue.cpp Monitor_Computer.cpp Monitor_ComputerDlg.cpp ProcessDlg.cpp
+         ProcessDlg.cpp
+         Monitor_ComputerDlg.cpp
+         Monitor_Computer.cpp
+         DlgValue.cpp
+         DlgCpu.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\Monitor_Computer.res" Monitor_Computer.rc 
+       Link:
+         C:\Program Files (x86)\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\项目\Monitor_Computer\x64\Debug\Monitor_Computer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Desktop\项目\Monitor_Computer\x64\Debug\Monitor_Computer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\项目\Monitor_Computer\x64\Debug\Monitor_Computer.lib" /MACHINE:X64 x64\Debug\Monitor_Computer.res
+         x64\Debug\DlgCpu.obj
+         x64\Debug\DlgValue.obj
+         x64\Debug\Monitor_Computer.obj
+         x64\Debug\Monitor_ComputerDlg.obj
+         x64\Debug\ProcessDlg.obj
+         x64\Debug\stdafx.obj
+         Monitor_Computer.vcxproj -> C:\Users\Administrator\Desktop\项目\Monitor_Computer\x64\Debug\Monitor_Computer.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\项目\Monitor_Computer\Monitor_Computer\Monitor_Computer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.99

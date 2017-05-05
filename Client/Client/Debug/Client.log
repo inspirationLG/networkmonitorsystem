@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ListenSock.cpp
+  DlgLogin.cpp
+  ClientDlg.cpp
+d:\workplace\source(c++)\app1\client\client\clientdlg.cpp(107): warning C4552: “-”: 运算符不起任何作用；应输入带副作用的运算符
+  Client.cpp
+  ChatSock.cpp
+  正在生成代码...
+  Client.vcxproj -> D:\Workplace\source(C++)\App1\Client\Debug\Client.exe
